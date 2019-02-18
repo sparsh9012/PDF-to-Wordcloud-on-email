@@ -1,4 +1,4 @@
-# Python_Integration
+# Python_Playground
 
 ## Integrating PDF, Text, Wordcloud and Email functionalities in Python
 - Step 1 - I use PyPDF2 library to read PDF text in Python
